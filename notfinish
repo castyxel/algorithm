@@ -1,0 +1,8 @@
+today we have a competition, 3 of them are very easy, and the last one is a bit difficult
+there is a non-dir graph, with at most 1000 dots, we need to build roads between them, k of them are free, and the max value of the road is the fee that you we need to pay
+the question is, what it the minimum fee?
+it's hard for me, my teamate finally find out that, dp can solve it
+
+and the other one i haven't finish is a netflow pro.
+
+this weekends we have 2 competition, gl and hf!
